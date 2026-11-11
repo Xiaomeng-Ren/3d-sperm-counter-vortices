@@ -1,4 +1,5 @@
 # Repository for Manuscript at Nature Communications
+[![DOI](https://zenodo.org/badge/1135067864.svg)](https://doi.org/10.5281/zenodo.24133060)
 
 This repository contains all codes used in the manuscript currently under consideration at *Nature Communications*.  
 
